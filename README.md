@@ -1,4 +1,4 @@
-<img alt="Ignite" src="https://imgur.com/a/CmPfge8.png">
+<img alt="Ignite" src="https://i.imgur.com/eCVyxxy.png">
 <h2 align="center">
   Ignite - Trilha ReactJS
 </h2>
